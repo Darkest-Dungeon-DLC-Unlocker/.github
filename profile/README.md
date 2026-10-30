@@ -1,14 +1,14 @@
-# **A Universal Darkest Dungeon DLC Unlocker and Manager tool**
+# **A Universal Darkest Dungeon DLC Unlocker**
 
 A modern and simple DLC unlocker tool for The Darkest Dungeon
 © 2024–2026 — All Rights Reserved
 
 ---
 
-## 🔗 Latest Release of Linua Updater
+## 🔗 Latest Release of Darkest Dungeon DLC Tool
 
 - **💾 Version 2.4.0.6** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/Darkest-Dungeon-DLC-Unlocker/.github/releases)
   
 
 ---
